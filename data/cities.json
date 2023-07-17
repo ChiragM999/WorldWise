@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Paonta Sahib",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-07-06T22:12:07.316Z",
+      "notes": "Home",
+      "position": {
+        "lat": "30.44160218476434",
+        "lng": "77.62355448289301"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Chandigarh",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-07-06T22:20:40.113Z",
+      "notes": "Test",
+      "position": {
+        "lat": "30.732434596237876",
+        "lng": "76.7848004558911"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Dehra Dun",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-07-06T22:47:58.678Z",
+      "notes": "Test",
+      "position": {
+        "lat": "30.330291499610336",
+        "lng": "78.04169603211986"
+      },
+      "id": 98443205
+    }
+  ]
+}
